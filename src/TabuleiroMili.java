@@ -5,6 +5,7 @@ import java.util.*;
 
 /**
  * Resolução do desafio do Tabuleiro do Sr. Mili
+ * utilizando um tabuleiro N X N
  * @author Cosmo Lustosa
  */
 public class TabuleiroMili {
